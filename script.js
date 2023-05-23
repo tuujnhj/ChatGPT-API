@@ -2,7 +2,7 @@ document.getElementById("submit-btn").addEventListener("click", function () {
   sendToChatGPT();
 });
 
-// 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
+// this is not working
 
 function sendToChatGPT() {
   let value = document.getElementById("word-input").value;
